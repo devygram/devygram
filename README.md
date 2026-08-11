@@ -1,75 +1,114 @@
 <div align="center">
 
-<!-- Typing animation headline -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+DevyGram+👋;Freelance+Web+Developer;Digital+Marketing+Expert;SEO+%26+Online+Advertising+Pro)](https://git.io/typing-svg)
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=DEVENDER%20PAPANI&fontSize=48&fontColor=58A6FF&fontAlignY=38&desc=@devygram%20•%20Freelance%20Web%20Developer%20%26%20Digital%20Marketing%20Expert&descAlignY=58&descColor=8b949e&animation=fadeIn" />
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=☕+A+cup+of+coffee+and+vibe+coding+✨;🌐+Building+the+web%2C+one+commit+at+a+time;📈+SEO+%7C+Ads+%7C+Full-Stack+Dev;🚀+Turning+ideas+into+digital+experiences)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social badges -->
-[![Website](https://img.shields.io/badge/Website-devygram.com-58A6FF?style=for-the-badge&logo=globe&logoColor=white)](https://devygram.com)
-[![X](https://img.shields.io/badge/X-@devygram-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devygram)
-[![Instagram](https://img.shields.io/badge/Instagram-devy.gram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devy.gram)
-[![Email](https://img.shields.io/badge/Email-hello@devygram.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@devygram.com)
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=devygram&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/devygram?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
+<br/>
+
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 `whoami`
 
 ```yaml
-name      : DevyGram
-handle    : @devygram
-role      : Freelance Web Developer & Digital Marketing Expert
-focus     : Web Development · SEO · Online Advertising
-timezone  : UTC+05:30
-contact   : hello@devygram.com
+╭─────────────────────────────────────────────╮
+│                                             │
+│   name      : DEVENDER PAPANI              │
+│   handle    : @devygram                    │
+│   role      : Freelance Web Developer      │
+│              & Digital Marketing Expert    │
+│   focus     : Web Dev · SEO · Online Ads   │
+│   hobbies   : ☕ Coffee + vibe coding ✨   │
+│   timezone  : UTC+05:30  🇮🇳               │
+│   contact   : hello@devygram.com           │
+│                                             │
+╰─────────────────────────────────────────────╯
 ```
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+**Marketing & SEO**
+
+![Google Ads](https://img.shields.io/badge/Google%20Ads-%234285F4.svg?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Analytics-%23E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devygram&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devygram&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devygram&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devygram&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=6" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devygram&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="70%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devygram&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Find Me Online
 
 <div align="center">
 
-💼 Available for freelance projects — web dev, SEO, and digital marketing.<br/>
-📩 Reach me at **[hello@devygram.com](mailto:hello@devygram.com)** or visit **[devygram.com](https://devygram.com)**
+[![Website](https://img.shields.io/badge/🌐%20devygram.com-Visit-58A6FF?style=for-the-badge&labelColor=0d1117)](https://devygram.com)
+[![X / Twitter](https://img.shields.io/badge/𝕏%20Twitter-@devygram-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/devygram)
+[![Instagram](https://img.shields.io/badge/Instagram-devy.gram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/devy.gram)
+[![Email](https://img.shields.io/badge/Email-hello@devygram.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hello@devygram.com)
+
+<br/>
+
+> 💼 **Open to freelance** — web development, SEO strategy & digital marketing campaigns.
+> Let's build something great together! ☕
 
 </div>
 
----
-
-<div align="center">
-<sub>Made with ❤️ by DevyGram</sub>
-</div>
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=120&section=footer"/>
