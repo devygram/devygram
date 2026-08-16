@@ -6,8 +6,7 @@
 
 name      : DEVENDER PAPANI              
 handle    : @devygram                    
-role      : Freelance Web Developer      
-              & Digital Marketing Expert    
+role      : Freelance Web Developer & Digital Marketing Expert    
 focus     : Web Dev · SEO · Online Ads   
 hobbies   : ☕ Coffee + vibe coding ✨   
 timezone  : UTC+05:30  🇮🇳               
