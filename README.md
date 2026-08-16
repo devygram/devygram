@@ -2,10 +2,6 @@
 
 </div>
 
-<br/>
-
-## 🧑‍💻 `whoami`
-
 ```yaml
 ╭─────────────────────────────────────────────╮
 │                                             │
@@ -20,9 +16,6 @@
 │                                             │
 ╰─────────────────────────────────────────────╯
 ```
-
-## 🌐 Find Me Online
-
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐%20devygram.com-Visit-58A6FF?style=for-the-badge&labelColor=0d1117)](https://devygram.com)
@@ -32,10 +25,4 @@
 
 <br/>
 
-> 💼 **Open to freelance** — web development, SEO strategy & digital marketing campaigns.
-> Let's build something great together! ☕
-
 </div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=120&section=footer"/>
