@@ -3,19 +3,18 @@
 </div>
 
 ```yaml
-╭─────────────────────────────────────────────╮
-│                                             │
-│   name      : DEVENDER PAPANI              │
-│   handle    : @devygram                    │
-│   role      : Freelance Web Developer      │
-│              & Digital Marketing Expert    │
-│   focus     : Web Dev · SEO · Online Ads   │
-│   hobbies   : ☕ Coffee + vibe coding ✨   │
-│   timezone  : UTC+05:30  🇮🇳               │
-│   contact   : hello@devygram.com           │
-│                                             │
-╰─────────────────────────────────────────────╯
+
+name      : DEVENDER PAPANI              
+handle    : @devygram                    
+role      : Freelance Web Developer      
+              & Digital Marketing Expert    
+focus     : Web Dev · SEO · Online Ads   
+hobbies   : ☕ Coffee + vibe coding ✨   
+timezone  : UTC+05:30  🇮🇳               
+contact   : hello@devygram.com           
+                                             
 ```
+<br/>
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐%20devygram.com-Visit-58A6FF?style=for-the-badge&labelColor=0d1117)](https://devygram.com)
