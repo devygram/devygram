@@ -1,7 +1,6 @@
 import Container from './Container';
 import BioText from '../landing/BioText';
 import SocialLinks from '../landing/SocialLinks';
-import Spotify from '../landing/Spotify';
 import RepeatSeparator from '../ui/repeat-separator';
 import VisitorCounter from '../landing/VisitorCounter';
 import Image from 'next/image';
@@ -42,7 +41,6 @@ const Hero = () => {
       </div>
       <RepeatSeparator />
       <BioText />
-      <Spotify />
       <RepeatSeparator />
       <SocialLinks />
     </Container>
