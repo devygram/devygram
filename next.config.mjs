@@ -5,17 +5,16 @@ const repoRoot = path.dirname(fileURLToPath(import.meta.url));
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
   reactStrictMode: true,
   typescript: {
     ignoreBuildErrors: true,
   },
-  // RAM & Memory Optimization: Automatically disposes inactive pages from memory
   onDemandEntries: {
     maxInactiveAge: 60 * 1000,
     pagesBufferLength: 2,
   },
   experimental: {
-    // Tree-shake large packages during compilation to save Node.js RAM
     optimizePackageImports: [
       'lucide-react',
       '@tabler/icons-react',
@@ -26,6 +25,7 @@ const nextConfig = {
     ],
   },
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
